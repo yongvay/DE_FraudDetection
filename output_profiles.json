@@ -1,0 +1,3 @@
+{"transaction_type": "deposit", "total_count": 25017, "fraud_percentage": 3.6895, "risk_category": "HIGH"}
+{"transaction_type": "payment", "total_count": 25216, "fraud_percentage": 3.6683, "risk_category": "HIGH"}
+{"transaction_type": "transfer", "total_count": 24917, "fraud_percentage": 3.604, "risk_category": "HIGH"}

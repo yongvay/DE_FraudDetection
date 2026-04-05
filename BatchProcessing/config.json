@@ -1,0 +1,16 @@
+{
+  "raw_input_path": "hdfs://localhost:9000/user/student/assignment/raw/financial_transactions/sample_100000_sorted.csv",
+  "curated_output_path": "hdfs://localhost:9000/user/student/assignment/batch/curated/financial_transactions",
+  "batch_output_volume": "hdfs://localhost:9000/user/student/assignment/batch/transaction_volume",
+  "batch_output_fraud": "hdfs://localhost:9000/user/student/assignment/batch/fraud_profiles",
+  "potential_offenders_hdfs_path": "hdfs://localhost:9000/user/student/assignment/realtime_v36/data/potential_offenders",
+  "suspicious_receivers_hdfs_path": "hdfs://localhost:9000/user/student/assignment/realtime_v36/data/suspicious_receivers",
+  "ip_takeover_hdfs_path": "hdfs://localhost:9000/user/student/assignment/realtime_v36/data/ip_takeover",
+    
+  "mongodb_uri": "mongodb://xingszen:ecxs1111@ac-63jg9eu-shard-00-00.erotkrx.mongodb.net:27017,ac-63jg9eu-shard-00-01.erotkrx.mongodb.net:27017,ac-63jg9eu-shard-00-02.erotkrx.mongodb.net:27017/?ssl=true&replicaSet=atlas-6zinhv-shard-0&authSource=admin&appName=Cluster0",
+  "mongodb_db": "FraudDetectionDB",
+  "mongodb_offenders_collection": "Potential_Offenders",
+  "mongodb_profiles_collection": "Fraud_Profiles",
+  "mongodb_receivers_collection": "Suspicious_Receivers",
+  "mongodb_iptakeover_collection": "Ip_Takeover"
+}

@@ -1,0 +1,5 @@
+﻿kafka-python==2.3.0
+pyspark
+pymongo
+pandas
+neo4j

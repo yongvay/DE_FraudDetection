@@ -1,0 +1,7 @@
+# Author: Tam Wan Jin
+NEO4J_URI="neo4j+s://b7b2d9c0.databases.neo4j.io"
+NEO4J_USERNAME="b7b2d9c0"
+NEO4J_PASSWORD="kY2gf3iSdAluZeM8iiJPygRjQB7dUqdfKGprgDWutT4"
+NEO4J_DATABASE="b7b2d9c0"
+AURA_INSTANCEID="b7b2d9c0"
+AURA_INSTANCENAME="Instance01"
